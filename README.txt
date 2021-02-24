@@ -5,3 +5,4 @@ Kebutuhan Sistem:
 - MySQL versi terbaru
 - HTTP Server
 - Redist
+- Python v. 3.x
